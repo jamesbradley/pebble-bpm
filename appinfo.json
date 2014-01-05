@@ -1,0 +1,60 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "46a7d5b1-338a-4f64-b76a-64a26647e9d9",
+    "appKeys": {},
+    "longName": "BPM",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "BPM",
+    "companyName": "James Bradley",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "ICON_ACCEL",
+                "file": "images/accel.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_DIUALMODE",
+                "file": "images/dualmode.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_VIBRATE",
+                "file": "images/vibrate.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_LIGHT",
+                "file": "images/light.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_OS",
+                "file": "images/os.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_STOP",
+                "file": "images/stop.png"
+            },
+            {
+                "type": "png",
+                "name": "ICON_NOTE",
+                "file": "images/note.png"
+            },
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "RECORD_ICON",
+                "file": "images/record.png"
+            }
+        ]
+    }
+}
